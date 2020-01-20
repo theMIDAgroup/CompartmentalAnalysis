@@ -17,4 +17,8 @@ A GUI is provided for the following compartmental systems:
 3) a 2D-2input compartmental model for FDG kinetics in the liver [2015 Garbarino S, Vivaldi V, Delbary F, Caviglia G, Piana M, Marini C, Capitanio S, Calamia I, Buschiazzo A and Sambuceti G, "A new compartmental method for the analysis of liver FDG kinetics in small animal models" European Journal of Nuclear Medicine and Molecular Imaging Research, 2015, 5-35].
 
 
+# Usage:
 Code is written in Matlab R2015b and tested with versions up to R2019b.
+
+run main.m file launches a Matlab GUI for tumor, kidneys or liver compartmental modelling. It requires standard .voistat data. 
+Test data can be found in the "data test" folder. Pictorial representation of the 3 compartmental models implemented (2D, (3+1)D and 2D2input) are available in the "models" folder, and accessible from the GUI itself.
