@@ -15,3 +15,6 @@ A GUI is provided for the following compartmental systems:
 2) a (3+1)D compartmental model for FDG kinetic in the kidneys [2014 Garbarino S, Caviglia G, Sambuceti G, Benvenuto F and Piana M "A novel description of FDG excretion in the renal system: application to metformin-treated models" Physics in Medicine and Biology, 59, 2469-2484]
 
 3) a 2D-2input compartmental model for FDG kinetics in the liver [2015 Garbarino S, Vivaldi V, Delbary F, Caviglia G, Piana M, Marini C, Capitanio S, Calamia I, Buschiazzo A and Sambuceti G, "A new compartmental method for the analysis of liver FDG kinetics in small animal models" European Journal of Nuclear Medicine and Molecular Imaging Research, 2015, 5-35].
+
+
+Code is written in Matlab R2015b and tested with versions up to R2019b.
