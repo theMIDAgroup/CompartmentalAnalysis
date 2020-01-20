@@ -1,5 +1,5 @@
 # CompartmentalAnalysis
-Matlab Graphic User Interface (GUI) for compartmental analysis of various compartmental systems for the FDG uptake in murine models.
+Matlab Graphic User Interface (GUI) for compartmental analysis of various compartmental systems describing FDG uptake in murine models.
 
 The code is based on the following publications:
 
