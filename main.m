@@ -1,6 +1,6 @@
 %% @authors: Fabrice Delbary & Sara Garbarino
 % contact; garbarino@dima.unige.it
-function  compartmental_gui(action,varargin)
+function  main(action,varargin)
 clc
 warning('off')
 
